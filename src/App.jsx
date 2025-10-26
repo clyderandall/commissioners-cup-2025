@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Trophy, Users, Target, BarChart3, RefreshCw, Clock, Calendar, Award, BookOpen } from 'lucide-react';
 
-const SHEET_ID = '1ucF98nx4O5Pq50JtOwM-HC4npoFtJS9YMR4Oclbb0dw';
+const SHEET_ID = '13ZchDJPoIF_Vb6JiWSLuiqYiEkQIfXxQjU_xCEfcidQ';
 
 const CommissionersCup = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -331,7 +331,7 @@ const CommissionersCup = () => {
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg p-8 text-white">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-4xl font-bold mb-2">Commissioner's Cup 2024</h1>
+              <h1 className="text-4xl font-bold mb-2">Commissioner's Cup 2025</h1>
               <p className="text-xl opacity-90">NFL Week {currentNFLWeek}</p>
             </div>
             <img src="https://iili.io/3wiyhl.png" alt="CC Logo" className="h-24 w-24 object-contain" />
@@ -861,7 +861,7 @@ const CommissionersCup = () => {
       <div className="space-y-6">
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg p-8 text-white">
           <h1 className="text-4xl font-bold mb-2">Tournament Rules & Format</h1>
-          <p className="text-xl opacity-90">Commissioner's Cup 2024</p>
+          <p className="text-xl opacity-90">Commissioner's Cup</p>
         </div>
 
         <div className="bg-white rounded-lg shadow p-6">
