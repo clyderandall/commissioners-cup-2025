@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Trophy, Users, Target, BarChart3, RefreshCw, Clock, Calendar, Award, BookOpen } from 'lucide-react';
 
-const SHEET_ID = '13ZchDJPoIF_Vb6JiWSLuiqYiEkQIfXxQjU_xCEfcidQ';
+const SHEET_ID = '1NMIFfe5OZA7YhtNe6EtScFXRqt9Lu2T1EH4i37XPzXA';
 
 const CommissionersCup = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
