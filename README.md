@@ -1,2 +1,2 @@
-# commissioners-cup-2024
-Commissioner's Cup 2024
+# commissioners-cup-2025
+Commissioner's Cup 2025
